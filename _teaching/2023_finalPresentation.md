@@ -11,7 +11,7 @@ location: "Coimbatore"
 
 <center> 
     <object data= 
-"/tempdir/files/Final_Report_Presentation.pdf" 
+"/files/Final_Report_Presentation.pdf" 
             width="1200"
             height="800"> 
     </object> 

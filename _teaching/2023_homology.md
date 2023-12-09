@@ -11,7 +11,7 @@ location: "IIIT - Bangalore"
 
 <center> 
     <object data= 
-"/tempdir/files/2_Homology_reading_Group_.pdf" 
+"/files/2_Homology_reading_Group_.pdf" 
             width="1200"
             height="800"> 
     </object> 
