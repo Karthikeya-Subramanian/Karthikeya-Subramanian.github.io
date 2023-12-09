@@ -1,7 +1,7 @@
 ---
 title: "Fill"
-excerpt: "Description <br/><img src='/tempdir/images/captures/14.jpg'>"
+excerpt: "Description <br/><img src='/images/captures/14.jpg'>"
 collection: portfolio
 ---
 Write
-<img src='/tempdir/images/captures/14.jpg'>
+<img src='/images/captures/14.jpg'>
