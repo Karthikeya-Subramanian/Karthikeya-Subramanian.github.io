@@ -12,7 +12,7 @@ tags:
 
 I suppose almost everybody would agree that at some point in life, they have been thoroughly fascinated by numbers—specifically, a particular set of numbers. It starts with primes, naturally the most enigmatic set, with no correlation whatsoever to each other. Those who pursue higher education will stumble upon algebraic and transcendental numbers. But once you get past these sets of numbers, there is a vast category, probably encompassing almost all the numbers in the real line, known as normal numbers.
 
-Why do we use the term 'normal' in mathematics when talking about numbers? In math, 'normal' is ubiquitous, appearing in various contexts such as normal vectors, normal lines, normal spaces, and normal distributions. When it comes to numbers, we call a number $x$ normal (written as $0.a_1a_2a_3\ldots$) if a group of $k$ digits shows up just as much as any other group of $k$ digits.
+Why do we use the term 'normal' in mathematics when talking about numbers? In math, 'normal' is ubiquitous, appearing in various contexts such as normal vectors, normal lines, normal spaces, and normal distributions. When it comes to numbers, we call a number $x$ normal (written as $0.a_1a_2a_3\ldots$) if a string of $k$ digits shows up just as much as any other string of $k$ digits.
 
 Let's clarify a bit. We're only interested in numbers after the decimal point, and by 'frequency,' you can think of it as being equally likely. For example, '1' should show up as often as '2', '3', '4', '5', '6', '7', '8', '9', and '0.' The same rule applies to something like '666' which should appear as often as any other 3-digit number.
 
