@@ -31,7 +31,7 @@ Is this the only example? No, there are a handful of examples. Another famous on
 
 $$ 0.235711131719232931374143\ldots \nonumber$$
 
-My first thought was that this has to be wrong. The same properties that Champernowne Constant had is can be said about this number. Prime numbers are not dense in natural numbers. How can this work? Well, Copeland and Erdős proved it works using something called $\(\epsilon,k\) - normal$ property.
+My first thought was that this has to be wrong. The same properties that Champernowne Constant had is can be said about this number. Prime numbers are not dense in natural numbers. How can this work? Well, Copeland and Erdős proved it works using something called $\(\epsilon,k\) - normal$ property. 
 
 This is all fascinating; we can construct numbers, but can we take the numbers we already know and declare that one or more of them are normal? We have a plethora of irrational numbers. The short answer is **NO**.
 
@@ -39,8 +39,9 @@ Look at $\pi$ for example; we have calculated this number to trillions of digits
 
 Simultaneously random and not, constructing normal numbers can be as simple as rolling a 10-sided die infinitely many times and concatenating the digits. The magic of this intersection between order and randomness within mathematics is truly captivating. 
 
-My ending thoughts are that intersection of order and randomness within the realm of mathematics is just so captivating. I will continue to write more and thank you all for the constant support.
+As I reflect on this exploration, I'm left with numerous questions and an eagerness to uncover more hidden patterns within the vast landscape of numbers. How do these mathematical concepts resonate with your understanding of randomness? What other mysteries might lie waiting to be revealed?
 
+Thank you all for your constant support, and I look forward to continuing this journey of mathematical discovery together."
 **CHEERS**
 
 ## Epilogue 
