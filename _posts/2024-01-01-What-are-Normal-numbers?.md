@@ -33,11 +33,11 @@ $$ 0.235711131719232931374143\ldots \nonumber$$
 
 My first thought was that this has to be wrong. The same properties that Champernowne Constant had is can be said about this number. Prime numbers are not dense in natural numbers. How can this work? Well, Copeland and Erdős proved it works using something called $\(\epsilon,k\) - normal$ property.
 
-This is all fascinating; we can construct numbers, but can we take the numbers we already know and declare that one or more of them are normal? We have a plethora of irrational numbers, and the short answer is **NO**.
+This is all fascinating; we can construct numbers, but can we take the numbers we already know and declare that one or more of them are normal? We have a plethora of irrational numbers. The short answer is **NO**.
 
-Take $\pi$ for example; we have calculated this number to trillions of digits, and there are [websites](https://www.atractor.pt/fromPI/PIalphasearch-_en.html) where you can go and check whether your name is in it or not. So far, empirically, it seems to be a normal number, but we have not proven it outright.
+Look at $\pi$ for example; we have calculated this number to trillions of digits, and there are [websites](https://www.atractor.pt/fromPI/PIalphasearch-_en.html) where you can go and check whether your name is in it or not. So far, empirically, it seems to be a normal number, but we have not proven it outright.
 
-This is simultaneously random and not. Technically, you could take a 10-sided die and roll it infinitely many times, then concatenate the digits, and voila, you have a normal number. 
+Simultaneously random and not, constructing normal numbers can be as simple as rolling a 10-sided die infinitely many times and concatenating the digits. The magic of this intersection between order and randomness within mathematics is truly captivating. 
 
 My ending thoughts are that intersection of order and randomness within the realm of mathematics is just so captivating. I will continue to write more and thank you all for the constant support.
 
@@ -46,7 +46,7 @@ My ending thoughts are that intersection of order and randomness within the real
 ## Epilogue 
 
 * This is completely talked with respect to base 10, there is normality in other bases as well.
-* I do wish to talk about how random in mathematics is very different from how we perseve in real life.
+* I do wish to talk about how random in mathematics is very different from how we perceive in real life.
 * The density of prime numbers is also another topic
 * References
   * Champernowne, D.G. (1933), The Construction of Decimals Normal in the Scale of Ten. Journal of the London Mathematical Society, s1-8: 254-260. [https://doi.org/10.1112/jlms/s1-8.4.254](https://doi.org/10.1112/jlms/s1-8.4.254).
