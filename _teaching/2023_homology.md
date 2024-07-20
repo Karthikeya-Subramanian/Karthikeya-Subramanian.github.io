@@ -4,7 +4,7 @@ collection: teaching
 type: "Internal talk"
 permalink: /teaching/2023-1st-sem
 venue: "Computational Topology Internal Group"
-date: 2023-11-23
+date: 2024-01-23
 location: "IIIT - Bangalore"
 ---
 
