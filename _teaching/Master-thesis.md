@@ -1,7 +1,7 @@
 ---
 title: "Approximating Persistence Homology for Large Data-sets"
 collection: teaching
-type: "Final Semester Presentation"
+type: "Final Dissertation"
 permalink: /teaching/2023-MSC
 venue: "PSG College of Technology"
 date: 2023-05-23
