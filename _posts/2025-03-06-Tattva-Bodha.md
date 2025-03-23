@@ -15,7 +15,7 @@ This book was composed by an ``आचार्य`` from the Advaitic tradition 
 
 ### मङ्गलश्लोकः (Maṅgala Śloka)
 
-> ``वसुदेवेन्द्रयोगीन्द्रं नत्वा ज्ञानप्रदं गुरुम्।``  
+> ``वासुदेवेन्द्रयोगीन्द्रं नत्वा ज्ञानप्रदं गुरुम्।``  
 > ``मुमुक्षूणां हितार्थाय तत्त्वबोधो बिधीयते ॥``
 
 We begin with salutations ``नत्वा``—traditionally offered to the Divine. Here, the reverence is directed toward the Guru, the one who bestows knowledge ``ज्ञानप्रदं गुरुम्``. The Guru, named ``वसुदेवेन्द्रयोगीन्द्र`` is acknowledged as a leader among yogis. With these salutations, we preach ``बिधीयते`` of ``तत्त्वबोधः``, that is ever-pure and good, written for those who ardently seek liberation ``मुमुक्षूणाम्``.
