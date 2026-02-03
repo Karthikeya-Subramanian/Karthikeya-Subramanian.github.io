@@ -100,7 +100,7 @@ This includes:
 
 Here’s a concrete example.
 
-👉 An **unlisted YouTube video** (add your link here)
+👉 An **unlisted YouTube video** [(THIS)](https://youtu.be/lWQkONRenYw)
 
 It exists.  
 You can access it if you have the link.  
@@ -114,7 +114,7 @@ Congratulations — you’ve been using the deep web every day.
 
 ## The famous (wrong) iceberg
 
-![Wrong iceberg meme](/images/abe.png)
+![Wrong iceberg meme](/images/web-dark-web.jpg)
 
 *Caption: A popular meme that dramatically overestimates both the size and mystery of the dark web.*
 
@@ -191,7 +191,7 @@ Like any technology, it reflects its users.
 
 ## The correct mental model
 
-![Correct iceberg](/images/web-dark-web.jpg)
+![Correct iceberg](/images/abe.png)
 
 *Caption: A more accurate picture — the dark web is tiny, the deep web is huge, and most of it is boring.*
 
