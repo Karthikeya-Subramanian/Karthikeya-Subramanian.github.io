@@ -191,7 +191,7 @@ Like any technology, it reflects its users.
 
 ## The correct mental model
 
-![Correct iceberg](/images/abe.png)
+![Correct iceberg](/images/abe.jpg)
 
 *Caption: A more accurate picture — the dark web is tiny, the deep web is huge, and most of it is boring.*
 
