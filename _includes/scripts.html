@@ -1,4 +1,15 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  // main.min.js is a prebuilt bundle we can't recompile here (no local node
+  // toolchain), so re-trigger its existing greedy-nav resize handler once
+  // web fonts finish loading instead of patching the bundle directly.
+  if (document.fonts) {
+    document.fonts.ready.then(function () {
+      window.dispatchEvent(new Event('resize'));
+    });
+  }
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
