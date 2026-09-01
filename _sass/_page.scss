@@ -117,7 +117,10 @@
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 3em 0;
+    padding: 5em 0 4em;
+    display: flex;
+    align-items: flex-end;
+    min-height: 60vh;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -125,11 +128,28 @@
     animation: intro 0.3s both;
     animation-delay: 0.25s;
 
+    @include breakpoint($large) {
+      min-height: 75vh;
+      padding-bottom: 5em;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(to top, rgba(#000, 0.75) 0%, rgba(#000, 0.15) 55%, rgba(#000, 0.05) 100%);
+    }
+
     a {
       color: #fff;
     }
 
     .wrapper {
+      position: relative;
+      z-index: 1;
       padding-left: 1em;
       padding-right: 1em;
 
@@ -143,18 +163,21 @@
     .page__lead,
     .btn {
       color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      text-shadow: 1px 1px 6px rgba(#000, 0.4);
     }
 
     .page__lead {
       max-width: $medium;
+      font-size: $type-size-3;
     }
 
     .page__title {
-      font-size: $type-size-2;
+      font-family: $header-font-family;
+      font-size: $type-size-1;
+      font-weight: 600;
 
       @include breakpoint($small) {
-        font-size: $type-size-1;
+        font-size: 3.5em;
       }
     }
   }

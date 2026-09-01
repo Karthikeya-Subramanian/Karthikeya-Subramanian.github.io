@@ -1,8 +1,14 @@
 ---
 permalink: /
 title: "Greetings!"
-excerpt: "About me"
+excerpt: "PhD student in computational topology. Mountains, numbers, and the occasional deep dive into how the internet works."
 author_profile: true
+header:
+  overlay_image: captures/12.jpg
+  overlay_filter: rgba(0, 0, 0, 0.1)
+  hero_title: "Karthikeya Subramanian"
+  cta_label: "See the Captures"
+  cta_url: "/portfolio/"
 redirect_from: 
   - /about/
   - /about.html
