@@ -5,6 +5,8 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  /* safety net: never let a stray overflow (nav, wide table, etc.) cause page-level horizontal scroll on mobile */
+  overflow-x: hidden;
 }
 
 body {

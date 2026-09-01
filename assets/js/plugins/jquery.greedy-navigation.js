@@ -70,3 +70,9 @@ $btn.on('click', function() {
 });
 
 updateNav();
+
+// Web fonts can swap in after this script first runs, changing nav item
+// widths without firing a resize event — recheck once they're loaded.
+if (document.fonts) {
+  document.fonts.ready.then(updateNav);
+}
