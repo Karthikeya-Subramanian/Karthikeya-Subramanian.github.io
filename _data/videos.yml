@@ -1,0 +1,4 @@
+# Add one entry per video you want featured. `id` is the YouTube video ID
+# (the part after "v=" or "youtu.be/") not the full URL.
+# - id: "dQw4w9WgXcQ"
+#   title: "Example video title"
